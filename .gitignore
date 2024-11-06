@@ -1,0 +1,12 @@
+__pychache__/
+*.pyc
+venv/
+bin/
+include/
+lib/
+share/
+pyvenv.cfg
+data/
+artefacts/
+.DS_Store
+model.pth
